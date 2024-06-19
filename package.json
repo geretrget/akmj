@@ -1,0 +1,19 @@
+{
+  "name": "BEEPBEEP",
+  "version": "1.0.0",
+  "description": "W-W-W-W-W-W-W",
+  "main": "devil.js",
+  "scripts": {
+    "start": "node devil.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.67.0",
+    "@solana/spl-token": "^0.2.0",
+    "bip39": "^3.0.4",
+    "ed25519-hd-key": "^1.0.0",
+    "dotenv": "^16.0.3",
+    "prompt-sync": "^4.2.0"
+  },
+  "author": "ee",
+  "license": "MIT"
+}
